@@ -1,0 +1,11 @@
+D:\AK\Game2048\Game2048\bin\Debug\Game2048.exe.config
+D:\AK\Game2048\Game2048\bin\Debug\Game2048.exe
+D:\AK\Game2048\Game2048\bin\Debug\Game2048.pdb
+D:\AK\Game2048\Game2048\obj\Debug\Game2048.csproj.AssemblyReference.cache
+D:\AK\Game2048\Game2048\obj\Debug\Game2048.Form1.resources
+D:\AK\Game2048\Game2048\obj\Debug\Game2048.Properties.Resources.resources
+D:\AK\Game2048\Game2048\obj\Debug\Game2048.csproj.GenerateResource.cache
+D:\AK\Game2048\Game2048\obj\Debug\Game2048.csproj.CoreCompileInputs.cache
+D:\AK\Game2048\Game2048\obj\Debug\Game2048.exe
+D:\AK\Game2048\Game2048\obj\Debug\Game2048.pdb
+D:\AK\Game2048\Game2048\obj\Debug\Game2048.exe.config
