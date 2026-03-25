@@ -20,7 +20,7 @@ namespace Game2048
         }
     }
 
-    internal interface ICellManager
+    public interface ICellManager
     {
         void AddRandomCell();
         List<Cell> GetAllCells();

@@ -13,7 +13,7 @@ namespace Game2048
         GameOver
     }
 
-    internal interface IGameState
+    public interface IGameState
     {
         GameStatus Status { get; }
         bool IsGameActive { get; }

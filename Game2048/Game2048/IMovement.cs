@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Game2048
 {
-    internal interface IMovement
+    public interface IMovement
     {
         bool MoveLeft();
         bool MoveRight();

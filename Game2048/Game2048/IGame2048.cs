@@ -13,13 +13,13 @@ namespace Game2048
         Right
     }
 
-    internal interface IGame2048
+    public interface IGame2048
     {
         int Size { get; }
         int[,] Board { get; }
         int Score { get; }
         bool IsGameOver { get; }
-        bool isWin { get; }
+        bool IsWin { get; }
 
         void Init();
         void Move(Direction direction);

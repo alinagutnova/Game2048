@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Game2048
 {
-    internal interface IRenderer
+    public interface IRenderer
     {
         void Render(IGame2048 game);
         void ShowGameOver();
